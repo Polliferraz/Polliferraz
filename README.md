@@ -1,6 +1,6 @@
 <h2> Olá, eu sou Polli (Ela/Dela)✨<h2>  
 
-### 🎣 Eu sou Bióloga, com experiência em produção pesqueira e desenvolvimento sustentável.
+### 🎣 Eu sou Bióloga, com experiência em análise de dados da produção pesqueira e desenvolvimento sustentável.
 ### 🌱 No momento estou fazendo:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **MBA em Data Science e Analytics EaD, USP/ESALQ**
   
